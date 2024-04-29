@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Box3D
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Box3D\ here.\r\n\r\n\ @author\ (Uri\ Chomsky)\r\n\ @version\ (28/04/24)\r\n
+comment1.params=
+comment1.target=Box3D()
+comment1.text=\r\n\ Constructs\ a\ box\ with\ 1x1x1\ size\r\n
+comment2.params=point\ length\ width\ height
+comment2.target=Box3D(point3D,\ int,\ int,\ int)
+comment2.text=\r\n\ construct\ a\ box\ with\ a\ base\ point\ and\ three\ demensions\r\n\ @param\ point\ is\ the\ base\ point\r\n\ @param\ length\ is\ the\ length\ of\ the\ sides\ of\ the\ box\r\n\ @param\ width\ is\ the\ width\ of\ the\ sides\r\n\ @param\ height\ is\ the\ height\ of\ the\ sides\ \r\n\ \r\n
+numComments=3
